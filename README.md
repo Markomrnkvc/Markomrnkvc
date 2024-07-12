@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d67c288a-66f3-4a95-8da9-fa36440d0594)
 ## Hi there 👋
 ![Markomrnkvc's Stats](https://github-readme-stats.vercel.app/api?username=Markomrnkvc&theme=merko&show_icons=true&hide_border=false&count_private=true)
 ![Markomrnkvc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Markomrnkvc&theme=merko&hide_border=false)
