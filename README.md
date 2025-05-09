@@ -1,5 +1,8 @@
 ## Hi there, I'm Marko 👋
 
+I am studying Data Science, AI and Intelligent Systems at the University of Applied Sciences Düsseldorf. I am particularly interested in machine learning and AI algorithms with Python.
+
+
 ![Markomrnkvc's Stats](https://github-readme-stats.vercel.app/api?username=Markomrnkvc&theme=merko&show_icons=true&hide_border=false&count_private=true)
 <!--
 **Markomrnkvc/Markomrnkvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
