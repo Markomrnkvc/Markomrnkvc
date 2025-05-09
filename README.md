@@ -1,5 +1,4 @@
-
-<img src="https://github.com/user-attachments/assets/d67c288a-66f3-4a95-8da9-fa36440d0594" width="400" height="300">
+#<img src="https://github.com/user-attachments/assets/d67c288a-66f3-4a95-8da9-fa36440d0594" width="400" height="300">
 
 ## Hi there, I'm Marko 👋
 
