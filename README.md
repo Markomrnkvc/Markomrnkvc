@@ -1,7 +1,8 @@
 ## Welcome to my Github!
 
 [![GitHub Stats Card](https://github-statspro.vercel.app/api/stats/Markomrnkvc?theme=sage_forest&hide_rank=true&design=minimal)
-[GitHub Stats Card](https://github-statspro.vercel.app/api/streak/Markomrnkvc?theme=sage_forest)
+
+(https://github-statspro.vercel.app/api/streak/Markomrnkvc?theme=sage_forest)]
 <!--
 **Markomrnkvc/Markomrnkvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
